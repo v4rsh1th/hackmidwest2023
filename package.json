@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "ethers": "^5.7.2",
     "ganache-cli": "^6.12.2",
+    "hardhat": "^2.17.3",
     "solc": "^0.8.21",
-    "truffle": "^5.11.5"
+    "truffle": "^5.11.5",
+    "web3": "^1.10.2"
   }
 }

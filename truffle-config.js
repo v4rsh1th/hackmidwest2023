@@ -70,6 +70,16 @@ module.exports = {
       network_id: "*",       // Any network (default: none)
       gas: 6721975,
     },
+
+    sepolia: {
+      provider: function () {
+        // Replace with your Sepolia mnemonic and Sepolia RPC URL
+        return new HDWalletProvider({
+          mnemonic: "content-licensing",
+          providerOrUrl: "https://rpc2.sepolia.org/",
+        });
+      },
+    }
     //
     // An additional network, but with some advanced options…
     // advanced: {
