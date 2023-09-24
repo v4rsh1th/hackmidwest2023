@@ -1,7 +1,6 @@
 import requests
 import json
 
-# Replace with your Pinata API key and secret
 api_key = "0ee8f60cc5e859ca6872"
 api_secret = "0c8307b834fba3fe8713c25c869775438b5b70185e6045a2215c441a70d79877"
 
