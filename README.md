@@ -14,8 +14,8 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
+1. Varshith Thota  || vt8fn@umkc.edu || v4rsh1th
+2. Apoorva Gonegari || agwgg@umkc.edu || Apoorva1500
 3.
 4.
 5.
